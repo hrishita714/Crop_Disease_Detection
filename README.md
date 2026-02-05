@@ -1,13 +1,27 @@
 ## Crop Disease Detection
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-python app.py
+Problem Statement
+
+Traditional crop disease detection relies on manual inspection by experts, which is time-consuming, costly, and not accessible to many farmers, especially in rural areas. Due to late or incorrect diagnosis, farmers often apply unsuitable pesticides, leading to economic loss and environmental damage. This project aims to develop an automated and user-friendly system for accurate crop disease detection using image-based deep learning techniques.
 
 
-To run the devserver:
-```
-npm install
-npm run dev
-```
+Objectives
+
+Detect and classify crop diseases from leaf images..
+Apply deep learning techniques for automatic feature extraction.
+Provide early disease diagnosis to reduce crop loss.
+Assist farmers with treatment guidance.
+Compare ML and CNN-based approaches.
+
+
+System Workflow
+
+1.User uploads a leaf image
+
+2.Image preprocessing (resizing, normalization)
+
+3.Feature extraction using CNN
+
+4.Disease classification
+
+5.Display of disease name, confidence score, and treatment information
