@@ -7,11 +7,11 @@ Traditional crop disease detection relies on manual inspection by experts, which
 
 Objectives
 
-Detect and classify crop diseases from leaf images..
-Apply deep learning techniques for automatic feature extraction.
-Provide early disease diagnosis to reduce crop loss.
-Assist farmers with treatment guidance.
-Compare ML and CNN-based approaches.
+*Detect and classify crop diseases from leaf images.
+*Apply deep learning techniques for automatic feature extraction.
+*Provide early disease diagnosis to reduce crop loss.
+*Assist farmers with treatment guidance.
+*Compare ML and CNN-based approaches.
 
 
 System Workflow
@@ -25,3 +25,21 @@ System Workflow
 4.Disease classification
 
 5.Display of disease name, confidence score, and treatment information
+
+Key Features (WOW Factor)
+
+1.End-to-end automation: Image → Disease → Action
+2.No manual feature extraction
+3.Farmer-friendly and easy to use
+4.Early-stage disease detection
+5.Scalable to mobile and offline deployment
+
+
+Results
+
+*CNN-based model achieved approximately 90–95% accuracy on test data.
+*Deep learning outperformed traditional ML models.
+*System successfully classified multiple crop diseases.
+*A working prototype allows real-time image upload and prediction.
+
+
